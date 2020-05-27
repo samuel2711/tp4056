@@ -1,14 +1,8 @@
 # tp4056
-TP4056 charger kicad schematics
+Charge-Protect-Boost board for 1s Lithium battery, boost Output 5V
 
-Kicad version with tp4056 footprint and schematics
-
-TP4056 Lithium Cell Charger Module with Battery Protection  without usb connector
+Pull EN low to activate boost converter
 
 Charging current set to 130ma (R=10kOm)
 
-
-![Preview](https://github.com/alltheworld/tp4056/blob/master/out/charger_stepup1.jpg)
-
-![Preview](https://github.com/alltheworld/tp4056/blob/master/out/charger_stepup2.jpg)
-
+![Preview](https://github.com/samuel2711/tp4056/blob/master/PCB.png)
