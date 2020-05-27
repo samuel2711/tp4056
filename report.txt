@@ -1,0 +1,30 @@
+Info: Backing up file “C:\Users\Samuel_PC\Nextcloud\Nextcloud\Technik\Projekte\LiPo1S\sym-lib-table” to file “C:\Users\Samuel_PC\Nextcloud\Nextcloud\Technik\Projekte\LiPo1S\rescue-backup\sym-lib-table-2020-05-27-16-42-43”.
+Info: Backing up file “C:\Users\Samuel_PC\Nextcloud\Nextcloud\Technik\Projekte\LiPo1S\charger_stepup.sch” to file “C:\Users\Samuel_PC\Nextcloud\Nextcloud\Technik\Projekte\LiPo1S\rescue-backup\charger_stepup-2020-05-27-16-42-43.sch”.
+Info: Backing up file “C:\Users\Samuel_PC\Nextcloud\Nextcloud\Technik\Projekte\LiPo1S\charger_stepup.pro” to file “C:\Users\Samuel_PC\Nextcloud\Nextcloud\Technik\Projekte\LiPo1S\rescue-backup\charger_stepup-2020-05-27-16-42-43.pro”.
+Info: Backing up file “C:\Users\Samuel_PC\Nextcloud\Nextcloud\Technik\Projekte\LiPo1S\charger_stepup-cache.lib” to file “C:\Users\Samuel_PC\Nextcloud\Nextcloud\Technik\Projekte\LiPo1S\rescue-backup\charger_stepup-cache-2020-05-27-16-42-43.lib”.
+Info: Backing up file “C:\Users\Samuel_PC\Nextcloud\Nextcloud\Technik\Projekte\LiPo1S\charger_stepup-rescue.lib” to file “C:\Users\Samuel_PC\Nextcloud\Nextcloud\Technik\Projekte\LiPo1S\rescue-backup\charger_stepup-rescue-2020-05-27-16-42-43.lib”.
+Info: Backing up file “C:\Users\Samuel_PC\Nextcloud\Nextcloud\Technik\Projekte\LiPo1S\charger_stepup-rescue.dcm” to file “C:\Users\Samuel_PC\Nextcloud\Nextcloud\Technik\Projekte\LiPo1S\rescue-backup\charger_stepup-rescue-2020-05-27-16-42-43.dcm”.
+Info: Adding library “charger_stepup-rescue”, file “${KIPRJMOD}/charger_stepup-rescue.lib” to project symbol library table.
+Info: Adding library “tp4056”, file “${KIPRJMOD}/lib/tp4056.lib” to project symbol library table.
+Info: Adding library “dw01”, file “${KIPRJMOD}/lib/dw01.lib” to project symbol library table.
+Info: Adding library “fs8205a”, file “${KIPRJMOD}/lib/fs8205a.lib” to project symbol library table.
+Symbol “R” mapped to symbol library “Device”.
+Symbol “C” mapped to symbol library “Device”.
+Symbol “LED” mapped to symbol library “Device”.
+Symbol “R” mapped to symbol library “Device”.
+Symbol “LED” mapped to symbol library “Device”.
+Symbol “R” mapped to symbol library “Device”.
+Symbol “R” mapped to symbol library “Device”.
+Symbol “C” mapped to symbol library “Device”.
+Symbol “R” mapped to symbol library “Device”.
+Symbol “DW01” mapped to symbol library “dw01”.
+Symbol “TP4056” mapped to symbol library “tp4056”.
+Symbol “CONN_01X01” mapped to symbol library “charger_stepup-rescue”.
+Symbol “CONN_01X01” mapped to symbol library “charger_stepup-rescue”.
+Symbol “CONN_01X01” mapped to symbol library “charger_stepup-rescue”.
+Symbol “CONN_01X01” mapped to symbol library “charger_stepup-rescue”.
+Symbol “CONN_01X01” mapped to symbol library “charger_stepup-rescue”.
+Symbol “CONN_01X01” mapped to symbol library “charger_stepup-rescue”.
+Symbol “C” mapped to symbol library “Device”.
+Symbol “FS8205A” mapped to symbol library “fs8205a”.
+Info: Symbol library table mapping complete!

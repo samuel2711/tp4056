@@ -1,0 +1,20 @@
+Id;Designator;Package;Quantity;Designation;Supplier and ref;
+1;C5,C4;C_1812_4532Metric;2;22uF;C28504;1812X226K250NT
+2;C3;C_0805_HandSoldering;1;10uF;;
+3;U3;TSSOP-8_4.4x3mm_Pitch0.65mm;1;FS8205A;C82736;FS312F-G
+4;R4,R1,R2;R_0603_HandSoldering;3;1k;;
+5;R6;R_0805_2012Metric;1;10k;;
+6;R7;R_0805_2012Metric;1;7k5;;
+7;L1;L_7.3x7.3_H4.5;1;22uH;C27442;SMRH74-220MT
+8;D3;D_SMA;1;SS34;C8678;
+9;Charge;PinHeader_1x02_P1.27mm_Vertical;1;5V_Charge;;
+10;Bat EN GND 5V;PinHeader_1x04_P1.27mm_Vertical;1;Out;;
+11;Bat-+;PinHeader_1x02_P1.27mm_Vertical;1;Battery;;
+12;U4;SOT-23-6;1;MT3608;C84817;MT3608
+13;R8;R_0805_2012Metric;1;1k;;
+14;C1,C2;C_0805_HandSoldering;2;0.1uF;;
+15;U2;SOT-23-6_Handsoldering;1;FS312F-G;;
+16;R3;R_0603_HandSoldering;1;10k;;
+17;R5;R_0603_HandSoldering;1;100;;
+18;D1,D2;LED_0603_HandSoldering;2;LED;;
+19;U1;TP4056_SOP-8-PP;1;TP4056;C382139;
