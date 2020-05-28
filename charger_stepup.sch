@@ -232,7 +232,7 @@ U 1 1 5ED2E00D
 P 800 2700
 F 0 "J1" H 718 2375 50  0000 C CNN
 F 1 "5V_Charge" H 718 2466 50  0000 C CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical" H 800 2700 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 800 2700 50  0001 C CNN
 F 3 "~" H 800 2700 50  0001 C CNN
 	1    800  2700
 	-1   0    0    1   
@@ -292,7 +292,7 @@ U 1 1 5ED7F80F
 P 7100 2550
 F 0 "J3" H 7180 2542 50  0000 L CNN
 F 1 "Battery" H 7180 2451 50  0000 L CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_1x02_P1.27mm_Vertical" H 7100 2550 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 7100 2550 50  0001 C CNN
 F 3 "~" H 7100 2550 50  0001 C CNN
 	1    7100 2550
 	1    0    0    -1  
@@ -473,7 +473,7 @@ U 1 1 5EDF1660
 P 10150 2000
 F 0 "J2" H 10230 1992 50  0000 L CNN
 F 1 "Out" H 10230 1901 50  0000 L CNN
-F 2 "Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical" H 10150 2000 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 10150 2000 50  0001 C CNN
 F 3 "~" H 10150 2000 50  0001 C CNN
 	1    10150 2000
 	1    0    0    -1  
